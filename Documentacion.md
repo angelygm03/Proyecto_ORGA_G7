@@ -177,7 +177,7 @@ Dado que R = NOT(Q0 AND (NOT Q1) AND Q2):
 
 
 
-## 💰 Presupuesto
+## Gastos realizados
 
 | Concepto                       | Cantidad | Precio unitario (Q) | Subtotal (Q) |
 |-------------------------------|----------|----------------------|--------------|
@@ -189,7 +189,7 @@ Dado que R = NOT(Q0 AND (NOT Q1) AND Q2):
 | Pantalla LCD 16 pines         | 1        | 41.50                | 41.50        |
 | **Total**                     |          |                      | **578.25**   |
 
-## 👥 Participación del Equipo
+## Participación del Equipo
 
 | Nombre del integrante     | Carné       | Porcentaje de participación |
 |---------------------------|-------------|------------------------------|
@@ -201,7 +201,7 @@ Cada integrante aporto en su totalidad a la elaboracion del proyecto final.
 
 > Todos los integrantes contribuyeron de manera equitativa en las fases de diseño, implementación, simulación y documentación del proyecto.
 
-## 📌 Conclusiones
+## Conclusiones
 
 1. La práctica permitió aplicar de forma efectiva los conocimientos adquiridos en clase sobre lógica combinacional y secuencial, mediante la implementación de flip-flops y mapas de Karnaugh.
 2. Se comprendió el uso de sensores y microcontroladores para controlar entradas y salidas físicas como barreras y contadores, simulando un sistema automatizado real.
