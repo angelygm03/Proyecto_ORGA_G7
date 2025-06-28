@@ -177,9 +177,38 @@ Dado que R = NOT(Q0 AND (NOT Q1) AND Q2):
 
 
 
+## 💰 Presupuesto
 
+| Concepto                       | Cantidad | Precio unitario (Q) | Subtotal (Q) |
+|-------------------------------|----------|----------------------|--------------|
+| Materiales maqueta            | 1        | 250.00               | 250.00       |
+| Servomotores                  | 2        | 32.00                | 64.00        |
+| Módulos de sensor ultrasónico | 6        | 27.00                | 162.00       |
+| Flip-flops tipo D 74LS74      | 3        | 18.75                | 56.25        |
+| Buzzer                        | 1        | 4.50                 | 4.50         |
+| Pantalla LCD 16 pines         | 1        | 41.50                | 41.50        |
+| **Total**                     |          |                      | **578.25**   |
 
+## 👥 Participación del Equipo
 
+| Nombre del integrante     | Carné       | Porcentaje de participación |
+|---------------------------|-------------|------------------------------|
+| Brandon Eduardo Pablo Garcia  | 202112092     | 100%                         |
+| Michael Cristian Itzep Ixcayau  | 201610975     | 100%                         |
+| Angely Lucrecia García Martínez  | 202210483    | 100%                         |
+
+Cada integrante aporto en su totalidad a la elaboracion del proyecto final.
+
+> Todos los integrantes contribuyeron de manera equitativa en las fases de diseño, implementación, simulación y documentación del proyecto.
+
+## 📌 Conclusiones
+
+1. La práctica permitió aplicar de forma efectiva los conocimientos adquiridos en clase sobre lógica combinacional y secuencial, mediante la implementación de flip-flops y mapas de Karnaugh.
+2. Se comprendió el uso de sensores y microcontroladores para controlar entradas y salidas físicas como barreras y contadores, simulando un sistema automatizado real.
+3. Se logró integrar elementos electrónicos, software y lógica digital en una maqueta funcional, lo cual representa un paso importante hacia proyectos de automatización más complejos.
+4. El sistema de parqueo implementado no solo cumple los requisitos funcionales, sino que también contempla condiciones de seguridad y estadística, dando un enfoque integral al prototipo.
+5. El uso de herramientas como Proteus y Arduino facilitó la simulación y control del sistema, mientras que el desarrollo del frontend ofreció una visualización clara del estado del parqueo.
+6. El trabajo en equipo permitió una distribución equitativa de las tareas, garantizando que todos los integrantes comprendieran cada parte del proyecto.
 
 
 ## Documentacion
