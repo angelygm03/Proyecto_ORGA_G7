@@ -182,18 +182,12 @@ Dado que R = NOT(Q0 AND (NOT Q1) AND Q2):
 
 
 
-> Prohibido usar Logic State. Consultar si se desea usar componentes distintos.
+## Documentacion
 
-## Entregables
+- Archivo `.pdsprj` (circuito combinacional)
+- Código Arduino
+- Enlace al repositorio de GitHub: `https://github.com/angelygm03/Proyecto_ORGA_G7.git`
 
-- Enlace de Drive con: `https://github.com/angelygm03/Proyecto_ORGA_G7.git`
-  - Archivo `.pdsprj` (circuito combinacional)
-  - Código Arduino
-  - Documentación Markdown
-- Enlace al repositorio de GitHub: 
-  - Nomenclatura: `Proyecto_ORGA_G#`
-  - Todos los integrantes deben tener commits.
-- Usuario colaborador de GitHub: `JorgeBa3`
 
 ---
 
